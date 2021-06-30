@@ -18,6 +18,7 @@ public class App {
         EsParOimpar(leerNumero);
         float f = conversionFareheint(leerNumero);
         System.out.println("La temperatura en grados F es" + f);
+        System.out.println("La temperatura en grados F es" + f);
     }
 
     public static String saludar(String nombre){
